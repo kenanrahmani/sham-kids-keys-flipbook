@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>وين المفتاح؟ · Where Are the Keys?</title>
+  <meta name="description" content="Demo flipbook — Sham Kids. Fable stills. Not published." />
+  <meta name="robots" content="noindex,nofollow" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Noto+Naskh+Arabic:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="banner">Demo flipbook · Fable stills · not published</div>
+  <header class="top">
+    <div class="titles">
+      <h1 class="ar" lang="ar" dir="rtl">وين المفتاح؟</h1>
+      <p class="en">Where Are the Keys? · ages 4+</p>
+    </div>
+    <button type="button" id="langToggle" class="chip" aria-pressed="false">EN + SY</button>
+  </header>
+
+  <main class="stage" id="stage">
+    <button type="button" class="nav prev" id="prev" aria-label="Previous page">‹</button>
+
+    <div class="book" id="book" aria-live="polite">
+      <div class="page" id="page">
+        <div class="art-wrap">
+          <img id="art" alt="" draggable="false" />
+          <div class="shine" aria-hidden="true"></div>
+        </div>
+        <div class="text">
+          <p class="sy" id="sy" lang="ar" dir="rtl"></p>
+          <p class="en-line" id="en"></p>
+        </div>
+      </div>
+    </div>
+
+    <button type="button" class="nav next" id="next" aria-label="Next page">›</button>
+  </main>
+
+  <footer class="bar">
+    <div class="dots" id="dots" role="tablist" aria-label="Pages"></div>
+    <p class="count"><span id="cur">1</span> / <span id="total">12</span></p>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
