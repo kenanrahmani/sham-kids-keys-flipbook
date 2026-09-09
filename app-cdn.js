@@ -35,7 +35,7 @@ const spreads = [
     en: "Mama said, \"Sami. For real.\"\nSami shook his head. It rang.",
   },
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/08.jpg",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/08.jpg?v=20260909fable",
     sy: "سامي ركض عالبلاط.\nزلق.",
     en: "Sami ran on the tiles.\nHe slipped.",
   },
@@ -45,7 +45,7 @@ const spreads = [
     en: "He fell.\nThe keys came out of the pocket. They rang.",
   },
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/10.jpg",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/10.jpg?v=20260909fable",
     sy: "سامي قال: «بجيبي.»\nصوتو واطي.",
     en: "Sami said, \"In my pocket.\"\nHis voice was low.",
   },
