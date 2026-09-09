@@ -1,61 +1,61 @@
 const spreads = [
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/01.jpg",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@493677e0c4c72f53df1469790c341d28224b393a/public/spreads/01.jpg",
     sy: "ماما قالت: «يلا. وين المفتاح؟»\nسامي قاعد. تحتو شي قاسي.",
     en: "Mama said, \"Let's go. Where are the keys?\"\nSami sat. Something hard under him.",
   },
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/02.jpg",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@493677e0c4c72f53df1469790c341d28224b393a/public/spreads/02.jpg",
     sy: "سامي قال: «ما بعرف.»\nجيب البيجاما رنّ.",
     en: "Sami said, \"I don't know.\"\nThe pajama pocket rang.",
   },
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/03.jpg",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@493677e0c4c72f53df1469790c341d28224b393a/public/spreads/03.jpg",
     sy: "تحت الطاولة؟\nبسّة. فتافيت. ما في مفتاح.",
     en: "Under the table?\nA kitty. Crumbs. No key.",
   },
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/04.jpg",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@493677e0c4c72f53df1469790c341d28224b393a/public/spreads/04.jpg",
     sy: "ورا البرداية؟\nسامي صار برداية.",
     en: "Behind the curtain?\nSami became a curtain.",
   },
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/05.jpg",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@493677e0c4c72f53df1469790c341d28224b393a/public/spreads/05.jpg",
     sy: "عالبلكون؟\nسامي نبش بشتلة البندورة.",
     en: "On the balcony?\nSami dug in the tomato plant.",
   },
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/06.jpg",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@493677e0c4c72f53df1469790c341d28224b393a/public/spreads/06.jpg",
     sy: "بالطنجرة؟\nغطا عراس سامي. ريحة طبيخ.",
     en: "In the pot?\nA lid on Sami's head. Smell of stew.",
   },
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/07.jpg",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@493677e0c4c72f53df1469790c341d28224b393a/public/spreads/07.jpg",
     sy: "ماما قالت: «سامي. عن جد.»\nسامي هزّ راسو. رنّ.",
     en: "Mama said, \"Sami. For real.\"\nSami shook his head. It rang.",
   },
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/08.jpg?v=20260909fable",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@493677e0c4c72f53df1469790c341d28224b393a/public/spreads/08.jpg",
     sy: "سامي ركض عالبلاط.\nزلق.",
     en: "Sami ran on the tiles.\nHe slipped.",
   },
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/09.jpg",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@493677e0c4c72f53df1469790c341d28224b393a/public/spreads/09.jpg",
     sy: "وقع.\nالمفتاح طلع من الجيب. رنّ.",
     en: "He fell.\nThe keys came out of the pocket. They rang.",
   },
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/10.jpg?v=20260909fable",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@493677e0c4c72f53df1469790c341d28224b393a/public/spreads/10.jpg",
     sy: "سامي قال: «بجيبي.»\nصوتو واطي.",
     en: "Sami said, \"In my pocket.\"\nHis voice was low.",
   },
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/11.jpg",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@493677e0c4c72f53df1469790c341d28224b393a/public/spreads/11.jpg",
     sy: "ردّ المفتاح. عليه تراب بندورة.\nسامي قال: «بجيبي. أنا.»",
     en: "He gave the keys back. Tomato dirt on them.\nSami said, \"In my pocket. Me.\"",
   },
   {
-    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@main/public/spreads/12.jpg",
+    src: "https://cdn.jsdelivr.net/gh/kenanrahmani/sham-kids-keys-flipbook@493677e0c4c72f53df1469790c341d28224b393a/public/spreads/12.jpg",
     sy: "ماما مسحتو. ما زعلت.\n«يلا.» هالمرة سامي قال.",
     en: "Mama wiped it. She didn't get mad.\n\"Let's go.\" This time, Sami said it.",
   },
